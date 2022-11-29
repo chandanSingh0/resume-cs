@@ -287,3 +287,10 @@ hr {
     margin: 0 auto;
   }
 }
+
+.portfolioBtn h4 {
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(166, 166, 166);
+}
